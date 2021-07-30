@@ -1,10 +1,7 @@
-<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
-
 
 
 <!-- PROJECT LOGO & HEADER -->
@@ -135,8 +132,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT -->
 ## Contact
-
-Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twitter.com/alynapchuk) - alynapchuk@gmail.com
+<p align="center">Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twitter.com/alynapchuk) - alynapchuk@gmail.com</p>
 
 
 
