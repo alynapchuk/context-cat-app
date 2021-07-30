@@ -26,7 +26,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="closed">
   <summary>Table of Contents</summary>
   <ol>
     <li>
