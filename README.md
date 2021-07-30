@@ -145,13 +145,13 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/detonoyoru?style=for-the-badge
 [contributors-url]: #
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alynapchuk/detonoyoru?style=for-the-badge
 [forks-url]: #
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/detonoyoru?style=for-the-badge
 [issues-url]: #
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
