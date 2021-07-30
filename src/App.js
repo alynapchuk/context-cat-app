@@ -27,7 +27,7 @@ function App() {
     <div className="App">
       <StateProvider value={useReducer(contextReducer, defaultState)}>
         <h1>Cat + Context!</h1>
-        <img src="/madcat.gif"></img>
+        <img src="/madcat.gif" alt="Mad Cat"></img>
         <Cat />
       </StateProvider>
     </div>
