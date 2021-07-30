@@ -18,9 +18,9 @@
     Summary of project/repository.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="#">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </p>
 
@@ -84,7 +84,8 @@ This is how you may set up this project locally. To get a local copy up and runn
 
 Get a free API Key at [https://example.com](https://example.com)
 
-* npm
+Install npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -94,7 +95,7 @@ Get a free API Key at [https://example.com](https://example.com)
 Clone the Repository
 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/alynapchuk/Project-Name.git
    ```
    
 Install NPM packages
@@ -108,16 +109,6 @@ Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
